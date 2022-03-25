@@ -1,1 +1,1 @@
-Code Repository for used for teaching purposes @ Interface3. 
+Code Repository  used for teaching purposes @ Interface3.
